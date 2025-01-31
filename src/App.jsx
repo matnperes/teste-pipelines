@@ -6,8 +6,8 @@ function App() {
       <h1>Bem-vindo ao Mini Projeto S3 🚀</h1>
       <p>Este é um exemplo de deploy para AWS S3 com GitHub Actions.</p>
       <img
-        src="https://res.cloudinary.com/demo/image/upload/c_pad,w_2600,h_1600,b_gen_fill/v1689803100/ai/hiker.jpg"
-        alt="Paisagem de montanha"
+        src="https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg"
+        alt="PImagem de uma flor"
         className="image"
       />
     </div>
