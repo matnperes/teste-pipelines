@@ -7,7 +7,7 @@ function App() {
       <p>Este é um exemplo de deploy para AWS S3 com GitHub Actions.</p>
       <img
         src="https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg"
-        alt="PImagem de uma flor"
+        alt="Imagem de uma flor"
         className="image"
       />
     </div>

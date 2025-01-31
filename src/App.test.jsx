@@ -11,7 +11,7 @@ describe("App Component", () => {
 
   it("Renderiza a imagem corretamente", () => {
     render(<App />);
-    const img = screen.getByAltText("Paisagem de montanha");
+    const img = screen.getByAltText("Imagem de uma flor");
     expect(img).toBeInTheDocument();
     expect(img.src).toContain("cloudinary.com");
   });
